@@ -1,0 +1,12 @@
+h1,h2,p{
+			color: green;
+			text-align: left;
+			font-size: 25px;
+			background: #51F214;
+		}
+		h3,h5{
+			color: red;
+			text-align: center;
+			font-size: 25px;
+			
+		}

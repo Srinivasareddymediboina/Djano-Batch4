@@ -1,0 +1,71 @@
+Good Afternoon to all(Day-3):
+=============================
+
+Today objectives:
+=================
+
+* webframework:
+
+
+* python web frameworks:
+	..>Django
+	..>Flask
+	..>bottle
+	..>cherry py
+	..>web2py
+
+
+* Django introduction:
+	..>Django follows MVT architecture
+	..>open source
+	..>it less time to create or build application after collectiong the client requirements
+	Features:
+	.........
+	1)fully loaded
+	2)very fast
+	3)secure
+	4)scable
+
+
+
+* MVC:
+...>model:it contains db part...>tables..>rows and cols
+...>view: it contains all html files
+...>control:it contains the logic
+
+
+* MVT::
+	model: it contains all db part..tables
+
+	view:logics
+
+	templates: all html files
+
+
+* Django installation:
+
+		>>cmd:django-admin --version
+		..>in python shell
+
+				import django
+				django.get_version()
+
+
+
+* Django project creation:
+
+
+		cmd>>django-admin startproject projectname
+
+        folder..>manage.py and project
+
+		cmd>> project move>>manage.py projectfolder
+
+		python manage.py runserver
+
+
+
+
+
+
+

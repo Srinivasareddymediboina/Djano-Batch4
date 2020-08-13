@@ -1,0 +1,17 @@
+Topics:
+---------
+ORM Quereis:
+============
+Update:
+	1.model.objects.filter().update()
+	2.obj = model(arguments)
+	  obj.field_name = new value
+	  obj.save()
+Delete:
+	model.objects.get().delete()
+
+SuperUser Creation:
+===================
+1.python manage.py migrate
+2.python manage.py createsuperuser
+3.localhost:8000/admin

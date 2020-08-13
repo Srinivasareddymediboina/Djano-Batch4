@@ -1,0 +1,94 @@
+Today Objectives
+-----------------
+1.Installation
+ -->python preferable version is 3.6 
+
+2.Functions
+ -->Function is a group of related statments that performs a specific task
+	1.Inbulid Functions
+	  print(),Sum,max,min,range,
+	 
+	2.User Defined Functions
+	  The user can define ourself
+	syntax:
+	------
+	def FunName():
+	   .
+	   .
+	   .
+	   .
+	FunName()
+	
+ -->Code Reusability
+ -->Reduce the length of code
+
+
+
+3.OOP'S:
+--------
+
+1.Class
+2.Object
+3.Contructors
+4.Inheritance
+
+Class:
+-------
+   -->It is a collection of variables and methods
+	method:if function existed inside the class then we will call the method
+
+syntax:
+-------
+class classname:
+	list of variables
+	list of methods
+
+
+Object:
+-------
+   -->It is a instance of a class
+
+syntax:
+--------
+obj_name=class_name
+
+
+Constructors:
+--------------
+The main Advantage of contructor is without using object we will call function
+
+class classname:
+
+    def __init__(self): #constructor
+    def __init__(a,b,self):
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

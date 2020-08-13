@@ -1,0 +1,26 @@
+Today Objectives
+----------------
+1.Overview of HTML
+ ->Basic Tags
+ ->Forms
+2.CSS
+
+->it contains a selector and declaration block
+declaration block contains property and value
+
+ selector {color:blue;}
+
+-->we have several types of selectors
+
+1.Element Selector
+2.Id
+3.Class
+4.Univarsal
+5.Group
+
+
+ ->Inline CSS
+
+ ->Internal CSS
+
+ ->External CSS

@@ -1,0 +1,14 @@
+Good Afternoon to all(Day7):
+============================
+
+* Bootstrap
+	* online bootstrap
+	* offline bootstrap
+
+		--->bootstrap.min.css
+		--->jq
+		--->bootstrap.min.js
+
+* Data Retrive from form and display in page.
+
+* extends and include part 

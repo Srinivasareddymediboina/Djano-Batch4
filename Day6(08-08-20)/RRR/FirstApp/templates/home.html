@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+	<title>django</title>
+	<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+	<!-- <style>
+		/*h3{
+			color: green;
+			font-size: 20px;
+			text-align: center;
+			background: yellow;
+		}
+		#hello{
+			color: red;
+			background: green;
+		}
+		.p{
+			color: red;
+			font-style: bold;
+		}*/
+		/**{
+			color: green;
+			text-align: left;
+			font-size: 25px;
+			background: #51F214;
+		}*/
+
+		h1,h2,p{
+			color: green;
+			text-align: left;
+			font-size: 25px;
+			background: #51F214;
+		}
+		h3,h5{
+			color: red;
+			text-align: center;
+			font-size: 25px;
+			
+		}
+
+
+	</style> -->
+
+</head>
+
+
+<body>
+
+
+	<h1>My Html Page</h1>
+	<h2>My Home page 2</h2>
+	<h2>My Html Page</h2>
+	<h3>My Html Page</h3>
+	<h3>My Html Page2</h3>
+	<h5>My Html Page</h5>
+	<center>
+	<p class="p" >Hello Good Afternoon<br>
+
+	welcome to django class</p>
+	<h3 id="hello">Hello</h3>
+	<a href="{% url 'index' %}">Index Page</a>
+
+	<img src="/static/images/django.png" height="300px" width="300px">
+
+	</center>
+
+</body>
+</html>

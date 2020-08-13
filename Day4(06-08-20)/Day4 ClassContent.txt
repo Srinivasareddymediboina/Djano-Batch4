@@ -1,0 +1,56 @@
+GoodAfternoon to all(Day4):
+===========================
+
+Project creation:
+
+	..>manage.py:
+		* it is a interface b/w cmd prompt and project
+		* db connections execution
+		* orm...>shell
+		* apps create 
+		* run project
+
+	..>project related folder:
+		* init: packages,modules
+		* settings:project settings
+		* urls.py:all urls..>browser related
+		* wsgi:server..project..>deploying
+
+
+
+App Creation:
+==============
+
+python manage.py startapp Appolo
+
+			or
+django-admin startapp Appolo
+
+
+* we need register our app in project(settings)
+
+	* migrations:db tables conversions
+	* ..>init....packages modules
+	* models.py: db part
+	* views: logics
+	* app: app related info
+	* admin: admin accesing part
+
+
+Http Requests and Responses:
+============================
+
+request:
+........
+* GET
+* POST
+
+response:
+.........
+based on user request ...it will response
+
+
+
+Static urls:
+=============
+

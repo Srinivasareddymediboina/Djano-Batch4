@@ -1,0 +1,43 @@
+Models:
+--------
+databases:
+	mysql,postgressql,sqlite3,oracle,mongodb,...
+
+CREATE DATABASE databasename
+CREATE TABLE table name
+INSERT INTO
+
+ORM: Object Relational Mapping
+-------------------------------
+C - CREATE
+R - RETRIEVE
+U - UPDATE
+D - DELETE
+
+(CRUD)
+
+=> python manage.py makemigrations
+	to create an intermediate file
+=> python manage.py migrate
+	to convert the model into database table
+
+ORM QUERIES:
+python manage.py shell
+------------
+CREATE:
+=======
+
+1. save()
+	obj = Student(Name="Sireesha",Age=22,Branch="ECE",Phone="9734565678",Email="r.sireesha@apssdc.in")
+obj.save()
+
+2. create()
+ model.objects.create()
+
+RETRIEVE:
+----------
+1.model.objects.all() --> return all records
+2.first --> return first record
+3.last --> return last record
+4.get  ---> to get the single record
+5.filter --> to get multiple records

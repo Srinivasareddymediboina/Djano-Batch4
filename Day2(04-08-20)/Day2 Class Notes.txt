@@ -1,0 +1,52 @@
+Today Objectives
+-----------------
+1.Inheritance:
+
+-->we are trying to inherting something from parent class to child class
+
+	class ChildClass(ParentClass):
+
+1.Single level inheritance
+-->Single level there is one parent class and any one child class
+
+2.multilevel Inheritance
+-->one or more prarents and one or more childs
+
+3.multiple Inheritance
+-->more then one parent and one child
+
+
+
+2.Modules and Packages
+-----------------------
+
+Modules:
+---------
+-->that is a one .py file
+-->for accessing the modules we can using import keyword
+-->for accessing modules we have few diff ways
+	-->import mymodule
+
+Packages:(Folder)
+-----------------
+-->it is a collection of modules
+	-->from Package import Module
+
+-->To get the all modules from a package
+	-->from package import * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
