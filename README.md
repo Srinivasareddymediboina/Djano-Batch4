@@ -100,3 +100,24 @@ ____
   -- Offline
 - Data Rendering from Html Pages
 ##### Recorded Video of Day7 [Click Here](https://transcripts.gotomeeting.com/#/s/c1457bba03194aab17134587924fe6c7fefcb9cd5b30bf63770d7775355f0563)
+
+___
+
+### Day8
+#### Content:
+- Data Rendering from templates to views
+- Model Creation
+- ORM Queries
+  - Create
+  - Retrieve
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/8f046b42a0434fcef2d1f43a95e8c80fc67fdb273da7c0312517c0af30120a6d)
+______
+### Day9
+#### Content:
+- ORM Queries
+  - Update
+  - Delete
+- Superuser Creation
+- Admin App
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/cea51a37f3e59d24a41f05dd1962714a15976ef72089c4f0d547b63c7b90b0dd)
+
