@@ -1,0 +1,26 @@
+
+{% extends 'navbar.html' %}
+{% block content %}
+
+<div class='row'>
+	<div class='col-sm-3'></div>
+	<div class='col-md-7'>
+		<div class='card'>
+			<div class='card-head bg-primary' align=center><h1>{{data.Name}} Edit Form</h1></div>
+			<div class='card-body'>
+				<form action="{% url 'edit' data.id %}" method=POST>
+					{% csrf_token %}
+					<h1 class='bg-primary'></h1>
+					Name <input class='form-control' type="text" name="user" value="{{data.Name}}"> <br>
+					Age <input class='form-control' type="integer" name="age" value="{{data.Age}}"><br>
+					Branch <input class='form-control' type="text" name="branch" value="{{data.Branch}}"><br>
+					Mobile <input class='form-control' type="text" name="phone"value="{{data.Mobile}}"><br>
+					Email <input class='form-control' type="email" name="mail" value="{{data.Email}}"><br>
+					<input class='btn btn-success' type="submit" name="register" value="Update">
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
