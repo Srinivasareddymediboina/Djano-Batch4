@@ -127,3 +127,10 @@ _______
 - Messages in Django
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b90f783de55f537b1eb10775c5f8151b16bac16f9373fcc2e2655ae7c8fcf6df)
 
+### Day10
+#### Content:
+-
+- 
+##### Video Link1 [Click Here](https://transcripts.gotomeeting.com/#/s/a79c5957c0b396969cb92b1f627faac3e00768d3e1a7e8bbf0d8c8c497e93584)
+##### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/727551a4eafd0b1cdf9979406041b1018cfc717f10fd1cf1b01a350f393368a5)
+
