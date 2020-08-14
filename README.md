@@ -120,4 +120,10 @@ ______
 - Superuser Creation
 - Admin App
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/cea51a37f3e59d24a41f05dd1962714a15976ef72089c4f0d547b63c7b90b0dd)
+_______
+### Day10
+#### Content:
+- CRUD operations 
+- Messages in Django
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b90f783de55f537b1eb10775c5f8151b16bac16f9373fcc2e2655ae7c8fcf6df)
 
