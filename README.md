@@ -103,7 +103,7 @@ ____
 
 ___
 
-### Day8
+### Day8(11-08-20)
 #### Content:
 - Data Rendering from templates to views
 - Model Creation
@@ -112,7 +112,7 @@ ___
   - Retrieve
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/8f046b42a0434fcef2d1f43a95e8c80fc67fdb273da7c0312517c0af30120a6d)
 ______
-### Day9
+### Day9(12-08-20)
 #### Content:
 - ORM Queries
   - Update
@@ -121,13 +121,13 @@ ______
 - Admin App
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/cea51a37f3e59d24a41f05dd1962714a15976ef72089c4f0d547b63c7b90b0dd)
 _______
-### Day10
+### Day10(13-08-20)
 #### Content:
 - CRUD operations 
 - Messages in Django
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b90f783de55f537b1eb10775c5f8151b16bac16f9373fcc2e2655ae7c8fcf6df)
 
-### Day10
+### Day11(14-08-20)
 #### Content:
 - Django Database Connections with MySql
 - Django Forms
@@ -139,9 +139,12 @@ _______
 - Image Uploading
 - Login Validation
 
-### New Meeting I'd [Meeting I'd](https://global.gotomeeting.com/join/228670749)
+### New Meeting ID [Meeting ID](https://global.gotomeeting.com/join/228670749)
 _____
-### Day 13
+### Day 13(18-08-20)
 ##### Video Link [click here](https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5)
 
-### Access code : 357557853
+### Meeting ID : 357557853
+
+### Day 14(19-08-20)
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/271887a87494e2ab5febcc58067ae4e2a81dd22e606d347c94c7a852a79c4f57)
