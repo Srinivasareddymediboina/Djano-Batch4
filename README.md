@@ -142,6 +142,6 @@ _______
 ### New Meeting I'd [Meeting I'd](https://global.gotomeeting.com/join/228670749)
 _____
 ### Day 13
-##### Video Link [click here][https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5]
+##### Video Link [click here](https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5)
 
 ### Access code : 357557853
