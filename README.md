@@ -71,7 +71,7 @@ ___
 - Templates
 - Dynamic Template Language
 
-
+___
 ### Day6(08-08-20)
 - Html Introduction and Sample Programs
 - Introduction to CSS
@@ -87,7 +87,7 @@ ___
 - Internal CSS
 
 - External CSS
-
+____
 ##### Recorded Video of Day6 [Click Here](https://transcripts.gotomeeting.com/#/s/fba0abfc092e0fa8869ddae52c3c94de0beb10017caeee2a85a84dac8fe1648e)
 
 #### Note:Videos Links will expire after Two Days
@@ -126,16 +126,15 @@ _______
 - CRUD operations 
 - Messages in Django
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b90f783de55f537b1eb10775c5f8151b16bac16f9373fcc2e2655ae7c8fcf6df)
-
+____
 ### Day11(14-08-20)
 #### Content:
 - Django Database Connections with MySql
 - Django Forms
 ##### Video Link1 [Click Here](https://transcripts.gotomeeting.com/#/s/a79c5957c0b396969cb92b1f627faac3e00768d3e1a7e8bbf0d8c8c497e93584)
 ##### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/727551a4eafd0b1cdf9979406041b1018cfc717f10fd1cf1b01a350f393368a5)
-
-
-## Day 12(17-08-2020)
+____
+### Day 12(17-08-2020)
 - Image Uploading
 - Login Validation
 
@@ -143,8 +142,8 @@ _______
 _____
 ### Day 13(18-08-20)
 ##### Video Link [click here](https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5)
-
+_____
 ### Meeting ID : 357557853
-
+_____
 ### Day 14(19-08-20)
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/271887a87494e2ab5febcc58067ae4e2a81dd22e606d347c94c7a852a79c4f57)
