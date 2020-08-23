@@ -1,0 +1,50 @@
+Good Afternoon !
+
+TOPICS:
+--------
+1.MySql Connections
+--------------------
+
+1.Download Xampp
+	link : 	https://www.apachefriends.org/download.html
+2.install mysqlconnector
+	command: pip install mysqlclient
+3.Change the database settings in settings.py
+	DATABASES = {
+    		'default': {
+        	'ENGINE': 'django.db.backends.mysql',
+        	'NAME': 'your database name',
+        	'HOST':'localhost',
+        	'USER':'root',
+       		'PASSWORD':"",
+        	'PORT' : '3306',
+    		}
+	}
+
+2.Django Forms
+-------------------
+	-> forms.ModelForm 
+	-> forms.Form
+** Both are having almost same functionality but the difference is save()[Save() works for ModelForm, not works for Form)
+*** DateField(yyyy-mm-dd or mm/dd/yyyy)
+
+Note:
+------
+
+
+Recorded Sessions Drive Link : https://drive.google.com/folderview?id=1VLawJyxgoWQBZkzdxD9jqtIMRmxwxwYZ
+
+New Meeting ID:
+-------------------
+Access Code: 228-670-749
+https://global.gotomeeting.com/join/228670749
+
+
+Xampp Port Change:
+-----------------------
+ServerName localhost:80
+#Listen 12.34.56.78:80
+Listen 80
+
+<VirtualHost _default_:443>
+Listen 443

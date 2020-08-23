@@ -71,7 +71,7 @@ ___
 - Templates
 - Dynamic Template Language
 
-
+___
 ### Day6(08-08-20)
 - Html Introduction and Sample Programs
 - Introduction to CSS
@@ -87,7 +87,7 @@ ___
 - Internal CSS
 
 - External CSS
-
+____
 ##### Recorded Video of Day6 [Click Here](https://transcripts.gotomeeting.com/#/s/fba0abfc092e0fa8869ddae52c3c94de0beb10017caeee2a85a84dac8fe1648e)
 
 #### Note:Videos Links will expire after Two Days
@@ -100,3 +100,63 @@ ____
   -- Offline
 - Data Rendering from Html Pages
 ##### Recorded Video of Day7 [Click Here](https://transcripts.gotomeeting.com/#/s/c1457bba03194aab17134587924fe6c7fefcb9cd5b30bf63770d7775355f0563)
+
+___
+
+### Day8(11-08-20)
+#### Content:
+- Data Rendering from templates to views
+- Model Creation
+- ORM Queries
+  - Create
+  - Retrieve
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/8f046b42a0434fcef2d1f43a95e8c80fc67fdb273da7c0312517c0af30120a6d)
+______
+### Day9(12-08-20)
+#### Content:
+- ORM Queries
+  - Update
+  - Delete
+- Superuser Creation
+- Admin App
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/cea51a37f3e59d24a41f05dd1962714a15976ef72089c4f0d547b63c7b90b0dd)
+_______
+### Day10(13-08-20)
+#### Content:
+- CRUD operations 
+- Messages in Django
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b90f783de55f537b1eb10775c5f8151b16bac16f9373fcc2e2655ae7c8fcf6df)
+____
+### Day11(14-08-20)
+#### Content:
+- Django Database Connections with MySql
+- Django Forms
+##### Video Link1 [Click Here](https://transcripts.gotomeeting.com/#/s/a79c5957c0b396969cb92b1f627faac3e00768d3e1a7e8bbf0d8c8c497e93584)
+##### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/727551a4eafd0b1cdf9979406041b1018cfc717f10fd1cf1b01a350f393368a5)
+____
+### Day 12(17-08-2020)
+- Image Uploading
+- Login Validation
+
+
+_____
+### Day 13(18-08-20)
+- Eamil Sending 
+- Eamil Attachment
+##### Video Link [click here](https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5)
+_____
+
+_____
+### Day 14(19-08-20)
+- User Authenication
+
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/271887a87494e2ab5febcc58067ae4e2a81dd22e606d347c94c7a852a79c4f57)
+____
+### Day 15(20-08-20)
+- User Profile Creation
+- git and heroku installation
+
+___
+### Day 16(21-08-20)
+- Heroku Deployment
+___

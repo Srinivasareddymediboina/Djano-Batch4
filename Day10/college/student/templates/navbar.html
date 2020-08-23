@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<style>
+ul {
+  list-style-type: none;
+  margin: 3px;;
+  overflow: hidden;
+  background-color: seagreen;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  letter-spacing: 2px
+}
+
+li a:hover{
+  background-color: #abc;
+  text-decoration: none;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="{% url 'register' %}">Register</a></li>
+  <li><a href="#news">Contact Us</a></li>
+  <li><a href="#contact">About</a></li>
+  <li><a href="#about">Home</a></li>
+</ul>
+
+{% block content %}
+{% endblock %}
+</body>
+</html>
