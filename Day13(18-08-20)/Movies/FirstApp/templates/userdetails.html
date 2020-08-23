@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>User Details</title>
+</head>
+<body>
+	<center>
+		{% for i in data %}
+		<h1>Full info About the Movie {{ i.moviename }}</h1>
+		<img src="/static/images/{{ i.poster }}" width="350px" height="350px"
+		style="border-radius: 300px;">
+
+		<h3>Hero Name: {{ i.hero }}</h3>
+		<h3>Heroin Name: {{ i.heroin }}</h3>
+		<h3>Director Name: {{ i.director }}</h3>
+		{% endfor %}
+	</center>
+
+</body>
+</html>

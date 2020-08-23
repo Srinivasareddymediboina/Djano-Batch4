@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Message Page</title>
+</head>
+<body>
+	<center>
+	<form action="{% url 'message' %}" method="POST">
+		{% csrf_token %}
+		To Mail:<br><input type="email" name="email"><br><br>
+		Subject:<br><input type="text" name="subject"><br><br>
+		Message:<br><input type="text" name="message"><br><br>
+		<br><input type="submit" name="submit">
+
+	</form>
+	</center>
+
+</body>
+</html>

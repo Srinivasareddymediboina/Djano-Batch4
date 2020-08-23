@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register Page</title>
+</head>
+<body>
+	<center>
+	<form action="{% url 'register' %}" enctype="multipart/form-data" method="POST">
+		{% csrf_token %}
+		{{ form.as_p }}
+		<br><input type="submit" name="submit">
+
+		
+	</form>
+	</center>
+
+</body>
+</html>

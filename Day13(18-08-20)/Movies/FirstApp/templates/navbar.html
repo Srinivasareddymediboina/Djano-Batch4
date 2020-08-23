@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+{% load static%}
+<head>
+  <title>My Project Main Page</title>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+  <script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css'%}">
+</head>
+<body>
+<nav class="navbar navbar-expand-sm bg-warning  mr-auto">
+  <!-- Brand/logo -->
+  
+  
+  <!-- Links -->
+  <ul class="navbar-nav  mr-auto">
+    <li class="nav-item">
+
+      <a class="nav-link" href="">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link margin-left" href="">Show personal </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Show Data</a>
+    </li>
+    
+  </ul>
+  <ul class="navbar-nav navbar-right">
+      <li class="nav-item">
+        <a href="{% url 'register'%}" class="nav-link">
+          Register
+        </a>
+      </li>
+      <li class="nav-item">
+        <a href="{% url 'login' %}" class="nav-link">
+          Login
+        </a>
+      </li>
+    </ul>
+</nav>
+</body>
+</html>
