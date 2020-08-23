@@ -155,7 +155,7 @@ ____
 ### Day 15(20-08-20)
 - User Profile Creation
 - git and heroku installation
-
+##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/4f4e55f8fefb8e76f99a0e3e7b3492e5bb90e3ca643cdadd823864d52f7120c2)
 ___
 ### Day 16(21-08-20)
 - Heroku Deployment
