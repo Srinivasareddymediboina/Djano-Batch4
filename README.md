@@ -137,7 +137,7 @@ ____
 ### Day 12(17-08-2020)
 - Image Uploading
 - Login Validation
-
+##### Video Link1 [Click Here](https://transcripts.gotomeeting.com/#/s/d758bdcf022a83d2c4941cb848275f3d07f1a54f42fffd51865850b4c3dcd2bb)
 
 _____
 ### Day 13(18-08-20)
