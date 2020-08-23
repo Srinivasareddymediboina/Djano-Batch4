@@ -138,12 +138,25 @@ ____
 - Image Uploading
 - Login Validation
 
-### New Meeting ID [Meeting ID](https://global.gotomeeting.com/join/228670749)
+
 _____
 ### Day 13(18-08-20)
+- Eamil Sending 
+- Eamil Attachment
 ##### Video Link [click here](https://transcripts.gotomeeting.com/#/s/90491c329aabf7f6b45f1eae324d1af131c460bfdcc3515ebe6c5c01f3d6e9f5)
 _____
-### Meeting ID : 357557853
+
 _____
 ### Day 14(19-08-20)
+- User Authenication
+
 ##### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/271887a87494e2ab5febcc58067ae4e2a81dd22e606d347c94c7a852a79c4f57)
+____
+### Day 15(20-08-20)
+- User Profile Creation
+- git and heroku installation
+
+___
+### Day 16(21-08-20)
+- Heroku Deployment
+___
